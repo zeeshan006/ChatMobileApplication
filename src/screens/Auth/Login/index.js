@@ -87,13 +87,13 @@ const Login = ({ navigation }) => {
       axios
         .post(apiConstants.base_url + apiConstants.simpleLogin, {
           phone: mobileNumber,
-          password: password,
+
           fcm_token: "fcm_token",
         })
         .then(async (response) => {
           setLoading(false);
           setDisable(false);
-          setSocket();
+
           AsyncStorage.setItem("token", response?.data?.data);
           setTimeout(() => {
             navigation.navigate("ChatNavigators");

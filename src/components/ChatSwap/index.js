@@ -25,20 +25,7 @@ export default function ChatSwap() {
       1000
     );
   }, []);
-  const sendMsg = () => {
-    setMessages([
-      { id: new Date().getTime(), type: "send", text: message },
-      ...messages,
-    ]);
-    setMessage("");
-  };
-  const receiveMsg = () => {
-    setMessages([
-      { id: new Date().getTime(), type: "receive", text: message },
-      ...messages,
-    ]);
-    setMessage("");
-  };
+
   return (
     <View style={styles.container}>
       <FlatList

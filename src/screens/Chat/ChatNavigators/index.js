@@ -56,7 +56,7 @@ const ChatNavigators = () => {
       })
       .then((response) => {
         // console.log("Response", response?.data?.data);
-        dispatch(alluserdata(response?.data?.data));
+
         setLoading(false);
       })
       .catch((error) => {

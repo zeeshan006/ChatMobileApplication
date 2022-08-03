@@ -42,11 +42,6 @@ const Countrypicker = ({
             </Text>
           }
           translation="eng"
-          containerButtonStyle={[styles.countrypicker]}
-          withCountryNameButton={true}
-          withCallingCode={true}
-          withAlphaFilter={true}
-          withFlag={true}
           withFilter={true}
           withFlagButton={true}
           onSelect={(val) => {
