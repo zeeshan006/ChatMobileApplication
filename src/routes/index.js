@@ -35,12 +35,10 @@ const Routes = () => {
   const checkLogin = async () => {
     const token = await AsyncStorage.getItem("token");
     if (token !== "" && token !== null) {
-      setInitialRoute("ChatNavigators");
       Socket.setupSocket((data) => {
         console.log(data, "data");
         Socket.messageReciver((data) => {
           addMsg(dispatch, data);
-          getallUsers(dispatch);
         });
       });
       Socket.sendMediaMessage((data) => {
