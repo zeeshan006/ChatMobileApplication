@@ -1,0 +1,6 @@
+module Pods_Defigram_DefigramTests {
+  umbrella header "Pods-Defigram-DefigramTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
