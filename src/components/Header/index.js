@@ -50,7 +50,7 @@ const Header = () => {
           },
         ]}
       >
-        <Image source={images.defigram} style={style.iconStyle} />
+        <Image source={images.chatApp} style={style.iconStyle} />
       </View>
       <View
         style={[

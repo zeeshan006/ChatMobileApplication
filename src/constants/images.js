@@ -23,7 +23,7 @@ export const hide = require("../assets/images/hide.png");
 export const show = require("../assets/images/show.png");
 
 export const uploadProfile = require("../assets/images/uploadProfile.png");
-export const defigram = require("../assets/images/defigram.png");
+export const chatApp = require("../assets/images/chatApp.png");
 export const star = require("../assets/images/star.png");
 // export const search = require("../assets/images/search.png");
 export const menu = require("../assets/images/menu.png");
@@ -85,7 +85,7 @@ export default {
   uploadProfile,
   lockoff,
   passwordForgot,
-  defigram,
+  chatApp,
   star,
   profileUpload,
   galleryBorder,
@@ -142,7 +142,7 @@ export default {
 //  uploadProfile,
 //  lockoff,
 //  passwordForgot,
-//  defigram,
+//  chatApp,
 //  star,
 //  profileUpload,
 //  galleryBorder,
@@ -190,7 +190,7 @@ export default {
 //    uploadProfile,
 //    lockoff,
 //    passwordForgot,
-//    defigram,
+//    chatApp,
 //    star,
 //    profileUpload,
 //    galleryBorder,

@@ -1,5 +1,5 @@
-module Pods_Defigram {
-  umbrella header "Pods-Defigram-umbrella.h"
+module Pods_chatApp {
+  umbrella header "Pods-chatApp-umbrella.h"
 
   export *
   module * { export * }

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/Defigram-2022/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/chatApp-2022/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/mapple.pk/.gradle/caches/transforms-3/42704fbbed6008efb81a97a397c75d93/transformed/lifecycle-viewmodel-2.3.1/res/values/values.xml",
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/Defigram-2022/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/chatApp-2022/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -243,7 +243,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/Defigram-2022/android/app/src/main/res/values/strings.xml",
+                    "source": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/chatApp-2022/android/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -315,7 +315,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/Defigram-2022/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/Users/mapple.pk/ReactNative/Zeeshan Git Repo/chatApp-2022/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
                     "from": {
                         "startLines": "6,8",
                         "startColumns": "4,4",

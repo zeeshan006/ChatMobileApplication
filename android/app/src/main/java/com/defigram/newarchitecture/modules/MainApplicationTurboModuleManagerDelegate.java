@@ -1,4 +1,4 @@
-package com.defigram.newarchitecture.modules;
+package com.chatApp.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
@@ -41,7 +41,7 @@ public class MainApplicationTurboModuleManagerDelegate
     if (!sIsSoLibraryLoaded) {
       // If you change the name of your application .so file in the Android.mk file,
       // make sure you update the name here as well.
-      SoLoader.loadLibrary("defigram_appmodules");
+      SoLoader.loadLibrary("chatApp_appmodules");
       sIsSoLibraryLoaded = true;
     }
   }

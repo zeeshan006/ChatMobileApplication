@@ -2957,10 +2957,10 @@
 		46EB2E00019930 /* react-native-safe-area-context-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00019920 /* react-native-safe-area-context-dummy.m */; };
 		46EB2E000199C0 /* LRDRCTSimpleToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E0000B2F0 /* LRDRCTSimpleToast.m */; };
 		46EB2E00019A20 /* react-native-simple-toast-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00019A10 /* react-native-simple-toast-dummy.m */; };
-		46EB2E00019B00 /* Pods-Defigram-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00019AF0 /* Pods-Defigram-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00019B60 /* Pods-Defigram-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00019B50 /* Pods-Defigram-dummy.m */; };
-		46EB2E00019C40 /* Pods-Defigram-DefigramTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00019C30 /* Pods-Defigram-DefigramTests-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00019CA0 /* Pods-Defigram-DefigramTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00019C90 /* Pods-Defigram-DefigramTests-dummy.m */; };
+		46EB2E00019B00 /* Pods-chatApp-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00019AF0 /* Pods-chatApp-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00019B60 /* Pods-chatApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00019B50 /* Pods-chatApp-dummy.m */; };
+		46EB2E00019C40 /* Pods-chatApp-chatAppTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00019C30 /* Pods-chatApp-chatAppTests-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00019CA0 /* Pods-chatApp-chatAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00019C90 /* Pods-chatApp-chatAppTests-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -4958,7 +4958,7 @@
 		1936453FF2A7E3A13063C4917C4D5598 /* RCT-Folly */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "RCT-Folly"; path = "libRCT-Folly.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2577F299FCB0A19824FE989BE77B8E8F /* React-jsinspector */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "React-jsinspector"; path = "libReact-jsinspector.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		269BE773C9482484B70949A40F4EA525 /* React-RCTSettings */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "React-RCTSettings"; path = "libReact-RCTSettings.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2A9AB2D5E0B9E778D7A4C4AFF1C12520 /* Pods-Defigram */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-Defigram"; path = "libPods-Defigram.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A9AB2D5E0B9E778D7A4C4AFF1C12520 /* Pods-chatApp */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-chatApp"; path = "libPods-chatApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33B49C6613B0AA0291A359688E245886 /* react-native-pager-view */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "react-native-pager-view"; path = "libreact-native-pager-view.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3501832F51E21BCD681DC315B3424B43 /* BVLinearGradient */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = BVLinearGradient; path = libBVLinearGradient.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		37592FDAD45752511010F4B06AC57355 /* React-cxxreact */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "React-cxxreact"; path = "libReact-cxxreact.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -7989,24 +7989,24 @@
 		46EB2E000199F0 /* react-native-simple-toast.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "react-native-simple-toast.release.xcconfig"; sourceTree = "<group>"; };
 		46EB2E00019A00 /* react-native-simple-toast-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "react-native-simple-toast-prefix.pch"; sourceTree = "<group>"; };
 		46EB2E00019A10 /* react-native-simple-toast-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "react-native-simple-toast-dummy.m"; sourceTree = "<group>"; };
-		46EB2E00019AC0 /* Pods-Defigram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Defigram.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00019AD0 /* Pods-Defigram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Defigram.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00019AE0 /* Pods-Defigram.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Defigram.modulemap"; sourceTree = "<group>"; };
-		46EB2E00019AF0 /* Pods-Defigram-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Defigram-umbrella.h"; sourceTree = "<group>"; };
-		46EB2E00019B10 /* Pods-Defigram-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Defigram-frameworks.sh"; sourceTree = "<group>"; };
-		46EB2E00019B20 /* Pods-Defigram-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Defigram-resources.sh"; sourceTree = "<group>"; };
-		46EB2E00019B30 /* Pods-Defigram-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Defigram-acknowledgements.plist"; sourceTree = "<group>"; };
-		46EB2E00019B40 /* Pods-Defigram-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Defigram-acknowledgements.markdown"; sourceTree = "<group>"; };
-		46EB2E00019B50 /* Pods-Defigram-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Defigram-dummy.m"; sourceTree = "<group>"; };
-		46EB2E00019C00 /* Pods-Defigram-DefigramTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Defigram-DefigramTests.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00019C10 /* Pods-Defigram-DefigramTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Defigram-DefigramTests.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00019C20 /* Pods-Defigram-DefigramTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Defigram-DefigramTests.modulemap"; sourceTree = "<group>"; };
-		46EB2E00019C30 /* Pods-Defigram-DefigramTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Defigram-DefigramTests-umbrella.h"; sourceTree = "<group>"; };
-		46EB2E00019C50 /* Pods-Defigram-DefigramTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Defigram-DefigramTests-frameworks.sh"; sourceTree = "<group>"; };
-		46EB2E00019C60 /* Pods-Defigram-DefigramTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Defigram-DefigramTests-resources.sh"; sourceTree = "<group>"; };
-		46EB2E00019C70 /* Pods-Defigram-DefigramTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Defigram-DefigramTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		46EB2E00019C80 /* Pods-Defigram-DefigramTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Defigram-DefigramTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		46EB2E00019C90 /* Pods-Defigram-DefigramTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Defigram-DefigramTests-dummy.m"; sourceTree = "<group>"; };
+		46EB2E00019AC0 /* Pods-chatApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-chatApp.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00019AD0 /* Pods-chatApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-chatApp.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00019AE0 /* Pods-chatApp.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-chatApp.modulemap"; sourceTree = "<group>"; };
+		46EB2E00019AF0 /* Pods-chatApp-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-chatApp-umbrella.h"; sourceTree = "<group>"; };
+		46EB2E00019B10 /* Pods-chatApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-chatApp-frameworks.sh"; sourceTree = "<group>"; };
+		46EB2E00019B20 /* Pods-chatApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-chatApp-resources.sh"; sourceTree = "<group>"; };
+		46EB2E00019B30 /* Pods-chatApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-chatApp-acknowledgements.plist"; sourceTree = "<group>"; };
+		46EB2E00019B40 /* Pods-chatApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-chatApp-acknowledgements.markdown"; sourceTree = "<group>"; };
+		46EB2E00019B50 /* Pods-chatApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-chatApp-dummy.m"; sourceTree = "<group>"; };
+		46EB2E00019C00 /* Pods-chatApp-chatAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-chatApp-chatAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00019C10 /* Pods-chatApp-chatAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-chatApp-chatAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E00019C20 /* Pods-chatApp-chatAppTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-chatApp-chatAppTests.modulemap"; sourceTree = "<group>"; };
+		46EB2E00019C30 /* Pods-chatApp-chatAppTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-chatApp-chatAppTests-umbrella.h"; sourceTree = "<group>"; };
+		46EB2E00019C50 /* Pods-chatApp-chatAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-chatApp-chatAppTests-frameworks.sh"; sourceTree = "<group>"; };
+		46EB2E00019C60 /* Pods-chatApp-chatAppTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-chatApp-chatAppTests-resources.sh"; sourceTree = "<group>"; };
+		46EB2E00019C70 /* Pods-chatApp-chatAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-chatApp-chatAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		46EB2E00019C80 /* Pods-chatApp-chatAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-chatApp-chatAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		46EB2E00019C90 /* Pods-chatApp-chatAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-chatApp-chatAppTests-dummy.m"; sourceTree = "<group>"; };
 		46FFF1440CEB7AB93DC18F4A6EEE40AC /* react-native-contacts */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "react-native-contacts"; path = "libreact-native-contacts.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		50B5347C9A6E93B7D4CFC3673BA6FB7E /* RNScreens */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = RNScreens; path = libRNScreens.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		52EAF1124A3C62232E15615B7D9A6507 /* react-native-simple-toast */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "react-native-simple-toast"; path = "libreact-native-simple-toast.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -8035,7 +8035,7 @@
 		B8CD4B9B578CE9FA38114B638C9CAA78 /* RNCMaskedView */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = RNCMaskedView; path = libRNCMaskedView.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD71E2539823621820F84384064C253A /* React-Core */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "React-Core"; path = "libReact-Core.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1A919103EAC9813D236486C34FC0A21 /* React-RCTVibration */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "React-RCTVibration"; path = "libReact-RCTVibration.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0B5F0E03C9F7244C47C8C1E62108AAF /* Pods-Defigram-DefigramTests */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-Defigram-DefigramTests"; path = "libPods-Defigram-DefigramTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0B5F0E03C9F7244C47C8C1E62108AAF /* Pods-chatApp-chatAppTests */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-chatApp-chatAppTests"; path = "libPods-chatApp-chatAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5C775614AC76D44CECB6BE08B022F1F /* ReactCommon */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = ReactCommon; path = libReactCommon.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F334F2E90E3EE462FC4192AF5C03BD /* React-jsi */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "React-jsi"; path = "libReact-jsi.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E55EA3C6F285F6FA8067C5C8A428FA64 /* RNFastImage */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = RNFastImage; path = libRNFastImage.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -8465,8 +8465,8 @@
 				3CA7A9404CCDD6BA22C97F8348CE3209 /* glog */,
 				FB6FAD8F0183E86ACBFBD8A81BA7BF3A /* libevent */,
 				5E4674603A5D5B9215FFA0F8E69F8B71 /* libwebp */,
-				2A9AB2D5E0B9E778D7A4C4AFF1C12520 /* Pods-Defigram */,
-				D0B5F0E03C9F7244C47C8C1E62108AAF /* Pods-Defigram-DefigramTests */,
+				2A9AB2D5E0B9E778D7A4C4AFF1C12520 /* Pods-chatApp */,
+				D0B5F0E03C9F7244C47C8C1E62108AAF /* Pods-chatApp-chatAppTests */,
 				1936453FF2A7E3A13063C4917C4D5598 /* RCT-Folly */,
 				F958876A082BF810B342435CE3FB5AF6 /* RCTTypeSafety */,
 				68D0E680E3D787063C2716E812E2A5AE /* React-bridging */,
@@ -8519,8 +8519,8 @@
 		46EB2E00000070 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00019AB0 /* Pods-Defigram */,
-				46EB2E00019BF0 /* Pods-Defigram-DefigramTests */,
+				46EB2E00019AB0 /* Pods-chatApp */,
+				46EB2E00019BF0 /* Pods-chatApp-chatAppTests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -13650,38 +13650,38 @@
 			path = "../../ios/Pods/Target Support Files/react-native-simple-toast";
 			sourceTree = "<group>";
 		};
-		46EB2E00019AB0 /* Pods-Defigram */ = {
+		46EB2E00019AB0 /* Pods-chatApp */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00019AE0 /* Pods-Defigram.modulemap */,
-				46EB2E00019B40 /* Pods-Defigram-acknowledgements.markdown */,
-				46EB2E00019B30 /* Pods-Defigram-acknowledgements.plist */,
-				46EB2E00019B50 /* Pods-Defigram-dummy.m */,
-				46EB2E00019B10 /* Pods-Defigram-frameworks.sh */,
-				46EB2E00019B20 /* Pods-Defigram-resources.sh */,
-				46EB2E00019AF0 /* Pods-Defigram-umbrella.h */,
-				46EB2E00019AD0 /* Pods-Defigram.debug.xcconfig */,
-				46EB2E00019AC0 /* Pods-Defigram.release.xcconfig */,
+				46EB2E00019AE0 /* Pods-chatApp.modulemap */,
+				46EB2E00019B40 /* Pods-chatApp-acknowledgements.markdown */,
+				46EB2E00019B30 /* Pods-chatApp-acknowledgements.plist */,
+				46EB2E00019B50 /* Pods-chatApp-dummy.m */,
+				46EB2E00019B10 /* Pods-chatApp-frameworks.sh */,
+				46EB2E00019B20 /* Pods-chatApp-resources.sh */,
+				46EB2E00019AF0 /* Pods-chatApp-umbrella.h */,
+				46EB2E00019AD0 /* Pods-chatApp.debug.xcconfig */,
+				46EB2E00019AC0 /* Pods-chatApp.release.xcconfig */,
 			);
-			name = "Pods-Defigram";
-			path = "Target Support Files/Pods-Defigram";
+			name = "Pods-chatApp";
+			path = "Target Support Files/Pods-chatApp";
 			sourceTree = "<group>";
 		};
-		46EB2E00019BF0 /* Pods-Defigram-DefigramTests */ = {
+		46EB2E00019BF0 /* Pods-chatApp-chatAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00019C20 /* Pods-Defigram-DefigramTests.modulemap */,
-				46EB2E00019C80 /* Pods-Defigram-DefigramTests-acknowledgements.markdown */,
-				46EB2E00019C70 /* Pods-Defigram-DefigramTests-acknowledgements.plist */,
-				46EB2E00019C90 /* Pods-Defigram-DefigramTests-dummy.m */,
-				46EB2E00019C50 /* Pods-Defigram-DefigramTests-frameworks.sh */,
-				46EB2E00019C60 /* Pods-Defigram-DefigramTests-resources.sh */,
-				46EB2E00019C30 /* Pods-Defigram-DefigramTests-umbrella.h */,
-				46EB2E00019C10 /* Pods-Defigram-DefigramTests.debug.xcconfig */,
-				46EB2E00019C00 /* Pods-Defigram-DefigramTests.release.xcconfig */,
+				46EB2E00019C20 /* Pods-chatApp-chatAppTests.modulemap */,
+				46EB2E00019C80 /* Pods-chatApp-chatAppTests-acknowledgements.markdown */,
+				46EB2E00019C70 /* Pods-chatApp-chatAppTests-acknowledgements.plist */,
+				46EB2E00019C90 /* Pods-chatApp-chatAppTests-dummy.m */,
+				46EB2E00019C50 /* Pods-chatApp-chatAppTests-frameworks.sh */,
+				46EB2E00019C60 /* Pods-chatApp-chatAppTests-resources.sh */,
+				46EB2E00019C30 /* Pods-chatApp-chatAppTests-umbrella.h */,
+				46EB2E00019C10 /* Pods-chatApp-chatAppTests.debug.xcconfig */,
+				46EB2E00019C00 /* Pods-chatApp-chatAppTests.release.xcconfig */,
 			);
-			name = "Pods-Defigram-DefigramTests";
-			path = "Target Support Files/Pods-Defigram-DefigramTests";
+			name = "Pods-chatApp-chatAppTests";
+			path = "Target Support Files/Pods-chatApp-chatAppTests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -15860,7 +15860,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00019B00 /* Pods-Defigram-umbrella.h in Headers */,
+				46EB2E00019B00 /* Pods-chatApp-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -15868,7 +15868,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00019C40 /* Pods-Defigram-DefigramTests-umbrella.h in Headers */,
+				46EB2E00019C40 /* Pods-chatApp-chatAppTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -15964,9 +15964,9 @@
 			productReference = E55EA3C6F285F6FA8067C5C8A428FA64 /* RNFastImage */;
 			productType = "com.apple.product-type.library.static";
 		};
-		10B6CD0B0627AFA5716608AD0F88F1A6 /* Pods-Defigram-DefigramTests */ = {
+		10B6CD0B0627AFA5716608AD0F88F1A6 /* Pods-chatApp-chatAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46EB2E00019B80 /* Build configuration list for PBXNativeTarget "Pods-Defigram-DefigramTests" */;
+			buildConfigurationList = 46EB2E00019B80 /* Build configuration list for PBXNativeTarget "Pods-chatApp-chatAppTests" */;
 			buildPhases = (
 				46EB2E00019BC0 /* Headers */,
 				46EB2E00019BD0 /* Sources */,
@@ -16038,9 +16038,9 @@
 				46EB2E0001AC40 /* PBXTargetDependency */,
 				46EB2E0001AC60 /* PBXTargetDependency */,
 			);
-			name = "Pods-Defigram-DefigramTests";
-			productName = "Pods-Defigram-DefigramTests";
-			productReference = D0B5F0E03C9F7244C47C8C1E62108AAF /* Pods-Defigram-DefigramTests */;
+			name = "Pods-chatApp-chatAppTests";
+			productName = "Pods-chatApp-chatAppTests";
+			productReference = D0B5F0E03C9F7244C47C8C1E62108AAF /* Pods-chatApp-chatAppTests */;
 			productType = "com.apple.product-type.library.static";
 		};
 		1948D0B63D2CF6A48E18B0B292BC6091 /* SocketRocket */ = {
@@ -16222,9 +16222,9 @@
 			productReference = 33B49C6613B0AA0291A359688E245886 /* react-native-pager-view */;
 			productType = "com.apple.product-type.library.static";
 		};
-		3DEC1A19A1F7975BE582A06DEFDC5D66 /* Pods-Defigram */ = {
+		3DEC1A19A1F7975BE582A06DEFDC5D66 /* Pods-chatApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46EB2E00019A40 /* Build configuration list for PBXNativeTarget "Pods-Defigram" */;
+			buildConfigurationList = 46EB2E00019A40 /* Build configuration list for PBXNativeTarget "Pods-chatApp" */;
 			buildPhases = (
 				46EB2E00019A80 /* Headers */,
 				46EB2E00019A90 /* Sources */,
@@ -16296,9 +16296,9 @@
 				46EB2E0001A480 /* PBXTargetDependency */,
 				46EB2E0001A4A0 /* PBXTargetDependency */,
 			);
-			name = "Pods-Defigram";
-			productName = "Pods-Defigram";
-			productReference = 2A9AB2D5E0B9E778D7A4C4AFF1C12520 /* Pods-Defigram */;
+			name = "Pods-chatApp";
+			productName = "Pods-chatApp";
+			productReference = 2A9AB2D5E0B9E778D7A4C4AFF1C12520 /* Pods-chatApp */;
 			productType = "com.apple.product-type.library.static";
 		};
 		463F41A7E8B252F8AC5024DA1F4AF6DA /* React-cxxreact */ = {
@@ -17102,8 +17102,8 @@
 				04A30E186743192DFB26B0FD7DB8F250 /* libevent */,
 				47D2E85A78C25869BB13521D8561A638 /* libwebp */,
 				B9ED5194E665042005069EF06C82A050 /* OpenSSL-Universal */,
-				3DEC1A19A1F7975BE582A06DEFDC5D66 /* Pods-Defigram */,
-				10B6CD0B0627AFA5716608AD0F88F1A6 /* Pods-Defigram-DefigramTests */,
+				3DEC1A19A1F7975BE582A06DEFDC5D66 /* Pods-chatApp */,
+				10B6CD0B0627AFA5716608AD0F88F1A6 /* Pods-chatApp-chatAppTests */,
 				EC55D52694092A9D0E6A78EB01207EB5 /* RCT-Folly */,
 				E7E7CE52C8C68B17224FF8C262D80ABF /* RCTRequired */,
 				D20469A9A1E5CFB26045EAEBE3F88E5E /* RCTTypeSafety */,
@@ -18708,7 +18708,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00019B60 /* Pods-Defigram-dummy.m in Sources */,
+				46EB2E00019B60 /* Pods-chatApp-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -18716,7 +18716,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00019CA0 /* Pods-Defigram-DefigramTests-dummy.m in Sources */,
+				46EB2E00019CA0 /* Pods-chatApp-chatAppTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -23460,7 +23460,7 @@
 		};
 		46EB2E00019A50 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00019AC0 /* Pods-Defigram.release.xcconfig */;
+			baseConfigurationReference = 46EB2E00019AC0 /* Pods-chatApp.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -23469,7 +23469,7 @@
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Defigram/Pods-Defigram.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-chatApp/Pods-chatApp.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -23483,7 +23483,7 @@
 		};
 		46EB2E00019A60 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00019AD0 /* Pods-Defigram.debug.xcconfig */;
+			baseConfigurationReference = 46EB2E00019AD0 /* Pods-chatApp.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -23492,7 +23492,7 @@
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Defigram/Pods-Defigram.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-chatApp/Pods-chatApp.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -23505,7 +23505,7 @@
 		};
 		46EB2E00019B90 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00019C00 /* Pods-Defigram-DefigramTests.release.xcconfig */;
+			baseConfigurationReference = 46EB2E00019C00 /* Pods-chatApp-chatAppTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -23514,7 +23514,7 @@
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Defigram-DefigramTests/Pods-Defigram-DefigramTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-chatApp-chatAppTests/Pods-chatApp-chatAppTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -23528,7 +23528,7 @@
 		};
 		46EB2E00019BA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00019C10 /* Pods-Defigram-DefigramTests.debug.xcconfig */;
+			baseConfigurationReference = 46EB2E00019C10 /* Pods-chatApp-chatAppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -23537,7 +23537,7 @@
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Defigram-DefigramTests/Pods-Defigram-DefigramTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-chatApp-chatAppTests/Pods-chatApp-chatAppTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -24127,7 +24127,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00019A40 /* Build configuration list for PBXNativeTarget "Pods-Defigram" */ = {
+		46EB2E00019A40 /* Build configuration list for PBXNativeTarget "Pods-chatApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				46EB2E00019A60 /* Debug */,
@@ -24136,7 +24136,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00019B80 /* Build configuration list for PBXNativeTarget "Pods-Defigram-DefigramTests" */ = {
+		46EB2E00019B80 /* Build configuration list for PBXNativeTarget "Pods-chatApp-chatAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				46EB2E00019BA0 /* Debug */,

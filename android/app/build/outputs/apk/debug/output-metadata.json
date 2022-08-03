@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.defigram",
+  "applicationId": "com.chatApp",
   "variantName": "debug",
   "elements": [
     {

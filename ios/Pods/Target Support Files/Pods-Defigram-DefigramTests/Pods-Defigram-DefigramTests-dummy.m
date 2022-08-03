@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_Defigram_DefigramTests : NSObject
+@interface PodsDummy_Pods_chatApp_chatAppTests : NSObject
 @end
-@implementation PodsDummy_Pods_Defigram_DefigramTests
+@implementation PodsDummy_Pods_chatApp_chatAppTests
 @end

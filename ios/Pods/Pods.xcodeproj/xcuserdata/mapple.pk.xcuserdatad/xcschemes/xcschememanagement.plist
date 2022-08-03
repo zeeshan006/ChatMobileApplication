@@ -74,12 +74,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Defigram-DefigramTests.xcscheme</key>
+		<key>Pods-chatApp-chatAppTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Defigram.xcscheme</key>
+		<key>Pods-chatApp.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

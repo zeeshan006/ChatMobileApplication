@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "10B6CD0B0627AFA5716608AD0F88F1A6"
-               BuildableName = "libPods-Defigram-DefigramTests.a"
-               BlueprintName = "Pods-Defigram-DefigramTests"
+               BuildableName = "libPods-chatApp-chatAppTests.a"
+               BlueprintName = "Pods-chatApp-chatAppTests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

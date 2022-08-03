@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_DefigramVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_DefigramVersionString[];
+FOUNDATION_EXPORT double Pods_chatAppVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_chatAppVersionString[];
 

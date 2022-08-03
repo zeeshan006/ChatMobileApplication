@@ -185,7 +185,7 @@ const ChatFlatItems = ({ navigation }) => {
                       color: THEME.COLORS.textColor,
                     }}
                   >
-                    DeFiGram.io News Channel
+                    chatApp.io News Channel
                   </Text>
                   <Text
                     style={{
